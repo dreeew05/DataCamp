@@ -20,7 +20,7 @@ This program provided in-depth, hands-on experience in creating data models, bui
 
 ![Badge](./Certificates/Data%20Analyst%20in%20Power%20BI%20Badge.png)
 
-*Awarded for completing all courses and assessments in the Power BI track.*
+*Awarded for completing all courses and assessments in the Data Analyst in Power BI track.*
 
 ---
 
