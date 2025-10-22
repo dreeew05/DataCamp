@@ -9,7 +9,7 @@ This program provided in-depth, hands-on experience in creating data models, bui
 
 ## 🏆 Certificate of Accomplishment
 
-![Certificate](./Certificates/Data%20Analyst%20in%20Power%20BI.pdf)
+![Certificate](./Certificates/Data%20Analyst%20in%20Power%20BI%20Certificate%20[Image].png)
 
 🎓 **Verify this certificate:**  
 👉 [**View on DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/track/83afbc34b9c2a2a5dc34767d5c796dd7bad1438c?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)
