@@ -35,37 +35,37 @@ Throughout the track, I gained experience in querying databases, joining and agg
 
 Each course below includes a link to my certificate of completion:
 
-1. 🧱 **[Introduction to SQL](./Certificates/Introduction%20to%20SQL.png)**  
+1. 🧱 **[Introduction to SQL](./Certificates/Introduction%20to%20SQL.pdf)**  
    Learn the fundamentals of SQL syntax, querying data, and filtering results.
 
-2. 🧩 **[Intermediate SQL](./Certificates/Intermediate%20SQL.png)**  
+2. 🧩 **[Intermediate SQL](./Certificates/Intermediate%20SQL.pdf)**  
    Enhance SQL skills with subqueries, aggregate functions, and logical operators.
 
-3. 🔗 **[Joining Data in SQL](./Certificates/Joining%20Data%20in%20SQL.png)**  
+3. 🔗 **[Joining Data in SQL](./Certificates/Joining%20Data%20in%20SQL.pdf)**  
    Master inner, outer, and self joins to combine data from multiple tables.
 
-4. ✏️ **[Data Manipulation in SQL](./Certificates/Data%20Manipulation%20in%20SQL.png)**  
+4. ✏️ **[Data Manipulation in SQL](./Certificates/Data%20Manipulation%20in%20SQL.pdf)**  
    Learn to insert, update, and delete data efficiently using SQL commands.
 
-5. 📊 **[PostgreSQL Summary Stats and Window Functions](./Certificates/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions.png)**  
+5. 📊 **[PostgreSQL Summary Stats and Window Functions](./Certificates/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions.pdf)**  
    Perform advanced analysis using aggregate functions, partitions, and ranking.
 
-6. 🧮 **[Functions for Manipulating Data in PostgreSQL](./Certificates/Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.png)**  
+6. 🧮 **[Functions for Manipulating Data in PostgreSQL](./Certificates/Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.pdf)**  
    Use text, numeric, and date functions to clean and transform data.
 
-7. 📏 **[Introduction to Statistics](./Certificates/Introduction%20to%20Statistics.png)**  
+7. 📏 **[Introduction to Statistics](./Certificates/Introduction%20to%20Statistics.pdf)**  
    Understand statistical principles that underpin data analysis in SQL.
 
-8. 🔍 **[Exploratory Data Analysis in SQL](./Certificates/Exploratory%20Data%20Analysis%20in%20SQL.png)**  
+8. 🔍 **[Exploratory Data Analysis in SQL](./Certificates/Exploratory%20Data%20Analysis%20in%20SQL.pdf)**  
    Apply SQL techniques to summarize, visualize, and uncover data insights.
 
-9. 💡 **[Data-Driven Decision Making in SQL](./Certificates/Data%20Driven%20Decision%20Making%20in%20SQL.png)**  
+9. 💡 **[Data-Driven Decision Making in SQL](./Certificates/Data%20Driven%20Decision%20Making%20in%20SQL.pdf)**  
    Learn how to translate SQL analyses into actionable business insights.
 
-10. 📉 **[Understanding Data Visualization](./Certificates/Understanding%20Data%20Visualization.png)**  
+10. 📉 **[Understanding Data Visualization](./Certificates/Understanding%20Data%20Visualization.pdf)**  
     Explore visualization principles to communicate analytical findings effectively.
 
-11. 🗣️ **[Data Communication Concepts](./Certificates/Data%20Communication%20Concepts.png)**  
+11. 🗣️ **[Data Communication Concepts](./Certificates/Data%20Communication%20Concepts.pdf)**  
     Develop skills in presenting data insights clearly and persuasively.
 
 ---
