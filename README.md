@@ -37,9 +37,10 @@ Each folder represents a specific **career track** or **course**, containing:
 🌐 **Verify on DataCamp:** [https://www.datacamp.com/certificate/DAA0017781713030](https://www.datacamp.com/certificate/DAA0017781713030) 
 
 #### 📚 Topics Covered
-- Data Analysis  
-- Data Cleaning  
-- Data Visualization  
+- Data Management  
+- Exploratory Analysis
+- Statistical Experimentation
+- Communication and Visualization
 
 ---
 
