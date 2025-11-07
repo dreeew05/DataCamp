@@ -31,12 +31,9 @@ Each folder represents a specific **career track** or **course**, containing:
 
 ### 🎯 Data Analyst Associate
 
-![Badge](./Certifications/Data%20Analyst/Badge/DA%20Associate%20-%20LinkedIn.png)
+![Badge](./Certifications/Associate%20Data%20Analyst/Badge/DA%20Associate%20-%20LinkedIn.png)
 
-I am proud to share that I have earned the **Data Analyst Associate Certification** from [DataCamp](https://www.datacamp.com)!  
-This certification validates my ability to **analyze, clean, and visualize data** using SQL and other analytical tools — demonstrating practical, job-ready data analytics skills.
-
-📜 **View Certificate (PDF):** [Click here to open](./Certifications/Data%20Analyst/Associate%20Data%20Analyst%20Certification.pdf)  
+📜 **View Certificate (PDF):** [Click here to open](./Certifications/Associate%20Data%20Analyst/Associate%20Data%20Analyst%20Certification.pdf)  
 🌐 **Verify on DataCamp:** [https://www.datacamp.com/certificate/DAA0017781713030](https://www.datacamp.com/certificate/DAA0017781713030) 
 
 #### 📚 Topics Covered
@@ -44,11 +41,18 @@ This certification validates my ability to **analyze, clean, and visualize data*
 - Data Cleaning  
 - Data Visualization  
 
-#### 🧠 Skills Gained
-- Use **PostgreSQL** to extract, join, aggregate, validate, and clean data  
-- Describe **statistical concepts** for hypothesis testing  
-- Report characteristics of data through **metrics and visualizations**  
-- Present **data insights** clearly to diverse audiences  
+---
+
+### 🔍 SQL Associate
+
+![Badge](./Certifications/SQL%20Associate/Badge/SQL%20Associate%20-%20LinkedIn.png)
+
+📜 **View Certificate (PDF):** [Click here to open](./Certifications/SQL%20Associate/SQL%20Associate%20Certification.pdf)  
+🌐 **Verify on DataCamp:** [https://www.datacamp.com/certificate/DAA0017781713030](https://www.datacamp.com/certificate/SQA0012852983436) 
+
+#### 📚 Topics Covered
+- Data Management  
+- Exploratory Analysis
 
 ---
 
